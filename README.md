@@ -5,3 +5,4 @@ This repository contains the experimental evaluation of the second laboratory in
 - v242: Voltage gain (Spannungsverstärkung)
 - v243: Thermal noise (Thermisches Rauschen)
 - v245: Electric induction (Induktion)
+- v251: Radioactivity statistics (Statistik des radioaktiven Zerfalls)
