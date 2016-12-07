@@ -6,3 +6,4 @@ This repository contains the experimental evaluation of the second laboratory in
 - v243: Thermal noise (Thermisches Rauschen)
 - v245: Electric induction (Induktion)
 - v251: Radioactivity statistics (Statistik des radioaktiven Zerfalls)
+- v252: Neutron activation (Aktivierung mit thermischen Neutronen)
