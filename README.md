@@ -13,3 +13,4 @@ Radioactivity
 - v251: Radioactivity statistics (Statistik des radioaktiven Zerfalls)
 - v252: Neutron activation (Aktivierung mit thermischen Neutronen)
 - v253: Absorption (Absorption von alpha-, beta- und gamma-Strahlen)
+- v255: X-ray spectrometer (Röntgenspektrometer)
