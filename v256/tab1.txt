@@ -2,7 +2,7 @@ El	Z	E [eV]	sig_E [eV]	sqrt(E) [eV^1/2]	dsqrt(E) [eV^1/2]
 		Ea	sEa	sqEa	dsqEa	Eb	sEb	sqEb	dsqEb	
 		alpha	alpha	alpha	alpha	beta	beta	beta	beta
 Ti	22	4.47	0.29	2.11	0.07	0	0	0	0
-Fe	26	6.40	0.28	2.53	0.06	7.03	0.13	2.65	0.03
+Fe	26	6.40	0.28	2.53	0.06	0	0	0	0
 Ni	28	7.49	0.26	2.73	0.05	8.16	0.31	2.86	0.05
 Cu	29	8.06	0.26	2.83	0.05	8.87	0.27	2.98	0.04
 Zn	30	8.65	0.26	2.94	0.05	9.55	0.31	3.09	0.05
