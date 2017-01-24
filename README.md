@@ -4,6 +4,7 @@ This repository contains the experimental evaluation of the second laboratory in
 
 Electricity
 
+- v241: RLC circuit (Wechselstromeigenschaften von RLC-Gliedern)
 - v242: Voltage gain (Spannungsverstärkung)
 - v243: Thermal noise (Thermisches Rauschen)
 - v245: Electric induction (Induktion)
