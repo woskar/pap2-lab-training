@@ -4,15 +4,15 @@ This repository contains the experimental evaluation of the second laboratory in
 
 Electricity
 
-- v241: RLC circuit (Wechselstromeigenschaften von RLC-Gliedern)
-- v242: Voltage gain (Spannungsverstärkung)
-- v243: Thermal noise (Thermisches Rauschen)
-- v245: Electric induction (Induktion)
+- [x] v241: RLC circuit (Wechselstromeigenschaften von RLC-Gliedern)
+- [x] v242: Voltage gain (Spannungsverstärkung)
+- [x] v243: Thermal noise (Thermisches Rauschen)
+- [x] v245: Electric induction (Induktion)
 
 Radioactivity
 
-- v251: Radioactivity statistics (Statistik des radioaktiven Zerfalls)
-- v252: Neutron activation (Aktivierung mit thermischen Neutronen)
-- v253: Absorption (Absorption von alpha-, beta- und gamma-Strahlen)
-- v255: X-ray spectrometer (Röntgenspektrometer)
-- v256: X-ray fluorescence (Röntgenfluoreszenz)
+- [x] v251: Radioactivity statistics (Statistik des radioaktiven Zerfalls)
+- [x] v252: Neutron activation (Aktivierung mit thermischen Neutronen)
+- [x] v253: Absorption (Absorption von alpha-, beta- und gamma-Strahlen)
+- [x] v255: X-ray spectrometer (Röntgenspektrometer)
+- [x] v256: X-ray fluorescence (Röntgenfluoreszenz)
