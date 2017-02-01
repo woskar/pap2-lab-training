@@ -4,9 +4,9 @@ This repository contains the experimental evaluation of the second laboratory in
 
 Mechanics
 
-- [ ] v211:
-- [ ] v212:
-- [ ] v213:
+- [ ] v211: Coupled pendula (Gekoppelte Pendel)
+- [ ] v212: Liquid viscosity (Zähigkeit von Flüssigkeiten)
+- [ ] v213: Spinning top (Kreisel)
 
 Thermodynamics
 
