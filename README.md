@@ -10,15 +10,15 @@ Mechanics
 
 Thermodynamics
 
-- [ ] v221:
-- [ ] v222:
-- [ ] v223:
+- [ ] v221: Adiabatic index (Adiabatenkoeffizient)
+- [ ] v222: Hot air engine (Heißluftmotor)
+- [ ] v223: Brownian motion (Brownsche Bewegung)
 
 Optics
 
-- [ ] v232:
-- [ ] v233:
-- [ ] v234:
+- [ ] v232: Michelson interferometer (Michelson-Interferometer)
+- [ ] v233: Fourier optics (Fourieroptik)
+- [ ] v234: Diffraction grating (Lichtquellen und Gitterspektroskopie)
 
 Electricity
 
