@@ -1,0 +1,4 @@
+Winkel[°]+-5	Präzessionsdauer Tp[s]+-1	w[rpm]
+30	70	510
+60	71	510
+90	71	510
