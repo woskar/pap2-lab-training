@@ -4,13 +4,13 @@ This repository contains the experimental evaluation of the second laboratory in
 
 Mechanics
 
-- [ ] v211: Coupled pendula (Gekoppelte Pendel)
-- [ ] v212: Liquid viscosity (Zähigkeit von Flüssigkeiten)
-- [ ] v213: Spinning top (Kreisel)
+- [x] v211: Coupled pendula (Gekoppelte Pendel)
+- [x] v212: Liquid viscosity (Zähigkeit von Flüssigkeiten)
+- [x] v213: Spinning top (Kreisel)
 
 Thermodynamics
 
-- [ ] v221: Adiabatic index (Adiabatenkoeffizient)
+- [x] v221: Adiabatic index (Adiabatenkoeffizient)
 - [ ] v222: Hot air engine (Heißluftmotor)
 - [ ] v223: Brownian motion (Brownsche Bewegung)
 
