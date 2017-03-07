@@ -4,19 +4,19 @@ This repository contains the experimental evaluation of the second laboratory in
 
 Mechanics
 
-- [x] v211: Coupled pendula (Gekoppelte Pendel)
+- [ ] v211: Coupled pendula (Gekoppelte Pendel)
 - [x] v212: Liquid viscosity (Zähigkeit von Flüssigkeiten)
 - [x] v213: Spinning top (Kreisel)
 
 Thermodynamics
 
 - [x] v221: Adiabatic index (Adiabatenkoeffizient)
-- [ ] v222: Hot air engine (Heißluftmotor)
-- [ ] v223: Brownian motion (Brownsche Bewegung)
+- [x] v222: Hot air engine (Heißluftmotor)
+- [x] v223: Brownian motion (Brownsche Bewegung)
 
 Optics
 
-- [ ] v232: Michelson interferometer (Michelson-Interferometer)
+- [x] v232: Michelson interferometer (Michelson-Interferometer)
 - [ ] v233: Fourier optics (Fourieroptik)
 - [ ] v234: Diffraction grating (Lichtquellen und Gitterspektroskopie)
 
