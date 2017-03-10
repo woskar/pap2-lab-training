@@ -17,7 +17,7 @@ Thermodynamics
 Optics
 
 - [x] v232: Michelson interferometer (Michelson-Interferometer)
-- [ ] v233: Fourier optics (Fourieroptik)
+- [x] v233: Fourier optics (Fourieroptik)
 - [ ] v234: Diffraction grating (Lichtquellen und Gitterspektroskopie)
 
 Electricity
