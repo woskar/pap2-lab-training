@@ -8,7 +8,7 @@ Zahl der probierten Teilspektren: 1
 Spektrometer: USB4F05832
 Integrationszeit (usec): 1000 (USB4F05832)
 Spektren Durchschnitt berechnet: 500 (USB4F05832)
-Boxcar Glättung: 0 (USB4F05832)
+Boxcar Glttung: 0 (USB4F05832)
 Dunkelstromkorrektur: Nein (USB4F05832)
 Puls/Lampe aktiviert: Nein (USB4F05832)
 Correct for Detector Non-linearity: Nein (USB4F05832)
