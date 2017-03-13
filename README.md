@@ -18,7 +18,7 @@ Optics
 
 - [x] v232: Michelson interferometer (Michelson-Interferometer)
 - [x] v233: Fourier optics (Fourieroptik)
-- [ ] v234: Diffraction grating (Lichtquellen und Gitterspektroskopie)
+- [x] v234: Diffraction grating (Lichtquellen und Gitterspektroskopie)
 
 Electricity
 
