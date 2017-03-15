@@ -1,10 +1,10 @@
-#pap2
+# pap2
 
 This repository contains the experimental evaluation of the second laboratory intership for physics students at the University of Heidelberg. The experiments (ger. 'Versuche') are the following:
 
 Mechanics
 
-- [ ] v211: Coupled pendula (Gekoppelte Pendel)
+- [x] v211: Coupled pendula (Gekoppelte Pendel)
 - [x] v212: Liquid viscosity (Zähigkeit von Flüssigkeiten)
 - [x] v213: Spinning top (Kreisel)
 
@@ -34,3 +34,11 @@ Radioactivity
 - [x] v253: Absorption (Absorption von alpha-, beta- und gamma-Strahlen)
 - [x] v255: X-ray spectrometer (Röntgenspektrometer)
 - [x] v256: X-ray fluorescence (Röntgenfluoreszenz)
+
+---
+
+## License & copyright
+
+© Oskar Weinfurtner
+
+Licensed under the [MIT License](LICENSE.md)
