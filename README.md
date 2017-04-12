@@ -1,4 +1,4 @@
-# pap2
+# PAP2: Physics Laboratory Training
 
 This repository contains the experimental evaluation of the second laboratory intership for physics students at the University of Heidelberg. The experiments (ger. 'Versuche') are the following:
 
@@ -35,7 +35,7 @@ Radioactivity
 - [x] v255: X-ray spectrometer (Röntgenspektrometer)
 - [x] v256: X-ray fluorescence (Röntgenfluoreszenz)
 
----
+![pap](https://cloud.githubusercontent.com/assets/16541141/24961350/d1c16a02-1f98-11e7-92c7-ff990dba7cf4.jpg)
 
 ## License & copyright
 
